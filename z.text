@@ -1,0 +1,5 @@
+1. open phpmyadmin
+2. click your database
+3. click SQL in top
+4. copy and paste this code without " : "ALTER TABLE `tbl_wallpaper` CHANGE `wallpaper_views` `wallpaper_views` INT(11) NOT NULL DEFAULT '0';"
+5. click GO
